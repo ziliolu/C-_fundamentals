@@ -1,0 +1,14 @@
+C:\Users\lpicoliz\OneDrive - NTT DATA EMEAL\Documentos\Udemy\Classes\bin\Debug\net8.0\Classes.exe
+C:\Users\lpicoliz\OneDrive - NTT DATA EMEAL\Documentos\Udemy\Classes\bin\Debug\net8.0\Classes.deps.json
+C:\Users\lpicoliz\OneDrive - NTT DATA EMEAL\Documentos\Udemy\Classes\bin\Debug\net8.0\Classes.runtimeconfig.json
+C:\Users\lpicoliz\OneDrive - NTT DATA EMEAL\Documentos\Udemy\Classes\bin\Debug\net8.0\Classes.dll
+C:\Users\lpicoliz\OneDrive - NTT DATA EMEAL\Documentos\Udemy\Classes\bin\Debug\net8.0\Classes.pdb
+C:\Users\lpicoliz\OneDrive - NTT DATA EMEAL\Documentos\Udemy\Classes\obj\Debug\net8.0\Classes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lpicoliz\OneDrive - NTT DATA EMEAL\Documentos\Udemy\Classes\obj\Debug\net8.0\Classes.AssemblyInfoInputs.cache
+C:\Users\lpicoliz\OneDrive - NTT DATA EMEAL\Documentos\Udemy\Classes\obj\Debug\net8.0\Classes.AssemblyInfo.cs
+C:\Users\lpicoliz\OneDrive - NTT DATA EMEAL\Documentos\Udemy\Classes\obj\Debug\net8.0\Classes.csproj.CoreCompileInputs.cache
+C:\Users\lpicoliz\OneDrive - NTT DATA EMEAL\Documentos\Udemy\Classes\obj\Debug\net8.0\Classes.dll
+C:\Users\lpicoliz\OneDrive - NTT DATA EMEAL\Documentos\Udemy\Classes\obj\Debug\net8.0\refint\Classes.dll
+C:\Users\lpicoliz\OneDrive - NTT DATA EMEAL\Documentos\Udemy\Classes\obj\Debug\net8.0\Classes.pdb
+C:\Users\lpicoliz\OneDrive - NTT DATA EMEAL\Documentos\Udemy\Classes\obj\Debug\net8.0\Classes.genruntimeconfig.cache
+C:\Users\lpicoliz\OneDrive - NTT DATA EMEAL\Documentos\Udemy\Classes\obj\Debug\net8.0\ref\Classes.dll

@@ -1,0 +1,14 @@
+C:\Users\lpicoliz\OneDrive - NTT DATA EMEAL\Documentos\Udemy\Course_II\DataBaseConnection_exercise\obj\Debug\net8.0\DataBaseConnection_exercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lpicoliz\OneDrive - NTT DATA EMEAL\Documentos\Udemy\Course_II\DataBaseConnection_exercise\obj\Debug\net8.0\DataBaseConnection_exercise.AssemblyInfoInputs.cache
+C:\Users\lpicoliz\OneDrive - NTT DATA EMEAL\Documentos\Udemy\Course_II\DataBaseConnection_exercise\obj\Debug\net8.0\DataBaseConnection_exercise.AssemblyInfo.cs
+C:\Users\lpicoliz\OneDrive - NTT DATA EMEAL\Documentos\Udemy\Course_II\DataBaseConnection_exercise\obj\Debug\net8.0\DataBaseConnection_exercise.csproj.CoreCompileInputs.cache
+C:\Users\lpicoliz\OneDrive - NTT DATA EMEAL\Documentos\Udemy\Course_II\DataBaseConnection_exercise\bin\Debug\net8.0\DataBaseConnection_exercise.exe
+C:\Users\lpicoliz\OneDrive - NTT DATA EMEAL\Documentos\Udemy\Course_II\DataBaseConnection_exercise\bin\Debug\net8.0\DataBaseConnection_exercise.deps.json
+C:\Users\lpicoliz\OneDrive - NTT DATA EMEAL\Documentos\Udemy\Course_II\DataBaseConnection_exercise\bin\Debug\net8.0\DataBaseConnection_exercise.runtimeconfig.json
+C:\Users\lpicoliz\OneDrive - NTT DATA EMEAL\Documentos\Udemy\Course_II\DataBaseConnection_exercise\bin\Debug\net8.0\DataBaseConnection_exercise.dll
+C:\Users\lpicoliz\OneDrive - NTT DATA EMEAL\Documentos\Udemy\Course_II\DataBaseConnection_exercise\bin\Debug\net8.0\DataBaseConnection_exercise.pdb
+C:\Users\lpicoliz\OneDrive - NTT DATA EMEAL\Documentos\Udemy\Course_II\DataBaseConnection_exercise\obj\Debug\net8.0\DataBaseConnection_exercise.dll
+C:\Users\lpicoliz\OneDrive - NTT DATA EMEAL\Documentos\Udemy\Course_II\DataBaseConnection_exercise\obj\Debug\net8.0\refint\DataBaseConnection_exercise.dll
+C:\Users\lpicoliz\OneDrive - NTT DATA EMEAL\Documentos\Udemy\Course_II\DataBaseConnection_exercise\obj\Debug\net8.0\DataBaseConnection_exercise.pdb
+C:\Users\lpicoliz\OneDrive - NTT DATA EMEAL\Documentos\Udemy\Course_II\DataBaseConnection_exercise\obj\Debug\net8.0\DataBaseConnection_exercise.genruntimeconfig.cache
+C:\Users\lpicoliz\OneDrive - NTT DATA EMEAL\Documentos\Udemy\Course_II\DataBaseConnection_exercise\obj\Debug\net8.0\ref\DataBaseConnection_exercise.dll

@@ -1,0 +1,14 @@
+C:\Users\lpicoliz\OneDrive - NTT DATA EMEAL\Documentos\Udemy\StackOverflowPost\obj\Debug\net8.0\StackOverflowPost.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lpicoliz\OneDrive - NTT DATA EMEAL\Documentos\Udemy\StackOverflowPost\obj\Debug\net8.0\StackOverflowPost.AssemblyInfoInputs.cache
+C:\Users\lpicoliz\OneDrive - NTT DATA EMEAL\Documentos\Udemy\StackOverflowPost\obj\Debug\net8.0\StackOverflowPost.AssemblyInfo.cs
+C:\Users\lpicoliz\OneDrive - NTT DATA EMEAL\Documentos\Udemy\StackOverflowPost\obj\Debug\net8.0\StackOverflowPost.csproj.CoreCompileInputs.cache
+C:\Users\lpicoliz\OneDrive - NTT DATA EMEAL\Documentos\Udemy\StackOverflowPost\bin\Debug\net8.0\StackOverflowPost.exe
+C:\Users\lpicoliz\OneDrive - NTT DATA EMEAL\Documentos\Udemy\StackOverflowPost\bin\Debug\net8.0\StackOverflowPost.deps.json
+C:\Users\lpicoliz\OneDrive - NTT DATA EMEAL\Documentos\Udemy\StackOverflowPost\bin\Debug\net8.0\StackOverflowPost.runtimeconfig.json
+C:\Users\lpicoliz\OneDrive - NTT DATA EMEAL\Documentos\Udemy\StackOverflowPost\bin\Debug\net8.0\StackOverflowPost.dll
+C:\Users\lpicoliz\OneDrive - NTT DATA EMEAL\Documentos\Udemy\StackOverflowPost\bin\Debug\net8.0\StackOverflowPost.pdb
+C:\Users\lpicoliz\OneDrive - NTT DATA EMEAL\Documentos\Udemy\StackOverflowPost\obj\Debug\net8.0\StackOverflowPost.dll
+C:\Users\lpicoliz\OneDrive - NTT DATA EMEAL\Documentos\Udemy\StackOverflowPost\obj\Debug\net8.0\refint\StackOverflowPost.dll
+C:\Users\lpicoliz\OneDrive - NTT DATA EMEAL\Documentos\Udemy\StackOverflowPost\obj\Debug\net8.0\StackOverflowPost.pdb
+C:\Users\lpicoliz\OneDrive - NTT DATA EMEAL\Documentos\Udemy\StackOverflowPost\obj\Debug\net8.0\StackOverflowPost.genruntimeconfig.cache
+C:\Users\lpicoliz\OneDrive - NTT DATA EMEAL\Documentos\Udemy\StackOverflowPost\obj\Debug\net8.0\ref\StackOverflowPost.dll

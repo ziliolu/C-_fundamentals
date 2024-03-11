@@ -1,0 +1,14 @@
+C:\Users\lpicoliz\OneDrive - NTT DATA EMEAL\Documentos\Udemy\Course_II\Boxing\bin\Debug\net8.0\Boxing.exe
+C:\Users\lpicoliz\OneDrive - NTT DATA EMEAL\Documentos\Udemy\Course_II\Boxing\bin\Debug\net8.0\Boxing.deps.json
+C:\Users\lpicoliz\OneDrive - NTT DATA EMEAL\Documentos\Udemy\Course_II\Boxing\bin\Debug\net8.0\Boxing.runtimeconfig.json
+C:\Users\lpicoliz\OneDrive - NTT DATA EMEAL\Documentos\Udemy\Course_II\Boxing\bin\Debug\net8.0\Boxing.dll
+C:\Users\lpicoliz\OneDrive - NTT DATA EMEAL\Documentos\Udemy\Course_II\Boxing\bin\Debug\net8.0\Boxing.pdb
+C:\Users\lpicoliz\OneDrive - NTT DATA EMEAL\Documentos\Udemy\Course_II\Boxing\obj\Debug\net8.0\Boxing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lpicoliz\OneDrive - NTT DATA EMEAL\Documentos\Udemy\Course_II\Boxing\obj\Debug\net8.0\Boxing.AssemblyInfoInputs.cache
+C:\Users\lpicoliz\OneDrive - NTT DATA EMEAL\Documentos\Udemy\Course_II\Boxing\obj\Debug\net8.0\Boxing.AssemblyInfo.cs
+C:\Users\lpicoliz\OneDrive - NTT DATA EMEAL\Documentos\Udemy\Course_II\Boxing\obj\Debug\net8.0\Boxing.csproj.CoreCompileInputs.cache
+C:\Users\lpicoliz\OneDrive - NTT DATA EMEAL\Documentos\Udemy\Course_II\Boxing\obj\Debug\net8.0\Boxing.dll
+C:\Users\lpicoliz\OneDrive - NTT DATA EMEAL\Documentos\Udemy\Course_II\Boxing\obj\Debug\net8.0\refint\Boxing.dll
+C:\Users\lpicoliz\OneDrive - NTT DATA EMEAL\Documentos\Udemy\Course_II\Boxing\obj\Debug\net8.0\Boxing.pdb
+C:\Users\lpicoliz\OneDrive - NTT DATA EMEAL\Documentos\Udemy\Course_II\Boxing\obj\Debug\net8.0\Boxing.genruntimeconfig.cache
+C:\Users\lpicoliz\OneDrive - NTT DATA EMEAL\Documentos\Udemy\Course_II\Boxing\obj\Debug\net8.0\ref\Boxing.dll

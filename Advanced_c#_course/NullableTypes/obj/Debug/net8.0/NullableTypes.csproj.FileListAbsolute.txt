@@ -1,0 +1,14 @@
+C:\Users\lpicoliz\OneDrive - NTT DATA EMEAL\Documentos\Udemy\Advanced_c#_course\NullableTypes\bin\Debug\net8.0\NullableTypes.exe
+C:\Users\lpicoliz\OneDrive - NTT DATA EMEAL\Documentos\Udemy\Advanced_c#_course\NullableTypes\bin\Debug\net8.0\NullableTypes.deps.json
+C:\Users\lpicoliz\OneDrive - NTT DATA EMEAL\Documentos\Udemy\Advanced_c#_course\NullableTypes\bin\Debug\net8.0\NullableTypes.runtimeconfig.json
+C:\Users\lpicoliz\OneDrive - NTT DATA EMEAL\Documentos\Udemy\Advanced_c#_course\NullableTypes\bin\Debug\net8.0\NullableTypes.dll
+C:\Users\lpicoliz\OneDrive - NTT DATA EMEAL\Documentos\Udemy\Advanced_c#_course\NullableTypes\bin\Debug\net8.0\NullableTypes.pdb
+C:\Users\lpicoliz\OneDrive - NTT DATA EMEAL\Documentos\Udemy\Advanced_c#_course\NullableTypes\obj\Debug\net8.0\NullableTypes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lpicoliz\OneDrive - NTT DATA EMEAL\Documentos\Udemy\Advanced_c#_course\NullableTypes\obj\Debug\net8.0\NullableTypes.AssemblyInfoInputs.cache
+C:\Users\lpicoliz\OneDrive - NTT DATA EMEAL\Documentos\Udemy\Advanced_c#_course\NullableTypes\obj\Debug\net8.0\NullableTypes.AssemblyInfo.cs
+C:\Users\lpicoliz\OneDrive - NTT DATA EMEAL\Documentos\Udemy\Advanced_c#_course\NullableTypes\obj\Debug\net8.0\NullableTypes.csproj.CoreCompileInputs.cache
+C:\Users\lpicoliz\OneDrive - NTT DATA EMEAL\Documentos\Udemy\Advanced_c#_course\NullableTypes\obj\Debug\net8.0\NullableTypes.dll
+C:\Users\lpicoliz\OneDrive - NTT DATA EMEAL\Documentos\Udemy\Advanced_c#_course\NullableTypes\obj\Debug\net8.0\refint\NullableTypes.dll
+C:\Users\lpicoliz\OneDrive - NTT DATA EMEAL\Documentos\Udemy\Advanced_c#_course\NullableTypes\obj\Debug\net8.0\NullableTypes.pdb
+C:\Users\lpicoliz\OneDrive - NTT DATA EMEAL\Documentos\Udemy\Advanced_c#_course\NullableTypes\obj\Debug\net8.0\NullableTypes.genruntimeconfig.cache
+C:\Users\lpicoliz\OneDrive - NTT DATA EMEAL\Documentos\Udemy\Advanced_c#_course\NullableTypes\obj\Debug\net8.0\ref\NullableTypes.dll

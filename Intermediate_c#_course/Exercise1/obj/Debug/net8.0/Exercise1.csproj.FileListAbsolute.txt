@@ -1,0 +1,14 @@
+C:\Users\lpicoliz\OneDrive - NTT DATA EMEAL\Documentos\Udemy\Course_II\Exercise1\bin\Debug\net8.0\Exercise1.exe
+C:\Users\lpicoliz\OneDrive - NTT DATA EMEAL\Documentos\Udemy\Course_II\Exercise1\bin\Debug\net8.0\Exercise1.deps.json
+C:\Users\lpicoliz\OneDrive - NTT DATA EMEAL\Documentos\Udemy\Course_II\Exercise1\bin\Debug\net8.0\Exercise1.runtimeconfig.json
+C:\Users\lpicoliz\OneDrive - NTT DATA EMEAL\Documentos\Udemy\Course_II\Exercise1\bin\Debug\net8.0\Exercise1.dll
+C:\Users\lpicoliz\OneDrive - NTT DATA EMEAL\Documentos\Udemy\Course_II\Exercise1\bin\Debug\net8.0\Exercise1.pdb
+C:\Users\lpicoliz\OneDrive - NTT DATA EMEAL\Documentos\Udemy\Course_II\Exercise1\obj\Debug\net8.0\Exercise1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lpicoliz\OneDrive - NTT DATA EMEAL\Documentos\Udemy\Course_II\Exercise1\obj\Debug\net8.0\Exercise1.AssemblyInfoInputs.cache
+C:\Users\lpicoliz\OneDrive - NTT DATA EMEAL\Documentos\Udemy\Course_II\Exercise1\obj\Debug\net8.0\Exercise1.AssemblyInfo.cs
+C:\Users\lpicoliz\OneDrive - NTT DATA EMEAL\Documentos\Udemy\Course_II\Exercise1\obj\Debug\net8.0\Exercise1.csproj.CoreCompileInputs.cache
+C:\Users\lpicoliz\OneDrive - NTT DATA EMEAL\Documentos\Udemy\Course_II\Exercise1\obj\Debug\net8.0\Exercise1.dll
+C:\Users\lpicoliz\OneDrive - NTT DATA EMEAL\Documentos\Udemy\Course_II\Exercise1\obj\Debug\net8.0\refint\Exercise1.dll
+C:\Users\lpicoliz\OneDrive - NTT DATA EMEAL\Documentos\Udemy\Course_II\Exercise1\obj\Debug\net8.0\Exercise1.pdb
+C:\Users\lpicoliz\OneDrive - NTT DATA EMEAL\Documentos\Udemy\Course_II\Exercise1\obj\Debug\net8.0\Exercise1.genruntimeconfig.cache
+C:\Users\lpicoliz\OneDrive - NTT DATA EMEAL\Documentos\Udemy\Course_II\Exercise1\obj\Debug\net8.0\ref\Exercise1.dll
